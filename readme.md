@@ -1,9 +1,6 @@
 ### Hi there, I'm Srinjoy Bhuiya - aka [Srinjoycode][website] 👋
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/BhuiyaSrinjoy?color=1da1f2&label=Srinjoy%20Bhuiya&logo=twitter&style=for-the-badge)
-
-
 ## I'm a Computer Science student, Developer, and Machine learning Enthusiast!!
 
 
