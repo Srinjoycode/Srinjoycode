@@ -1,6 +1,6 @@
 ### Hi there, I'm Srinjoy Bhuiya - aka [Srinjoycode][website] 👋
 
-[![Website](https://img.shields.io/website?label=srinjoybhuiya.ml&style=for-the-badge&url=http://srinjoybhuiya.ml)](http://srinjoybhuiya.ml/)
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/BhuiyaSrinjoy?color=1da1f2&label=Srinjoy%20Bhuiya&logo=twitter&style=for-the-badge)
 
 
