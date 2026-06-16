@@ -35,28 +35,26 @@
 ### 🎖️ Credly Badges
 
 <p align="center">
-  <a href="https://www.credly.com/badges/0ebfd6f2-d5b2-4b0c-8d95-81542cf9f7bd" title="Credly Badge">
-    <img src="https://www.credly.com/badges/0ebfd6f2-d5b2-4b0c-8d95-81542cf9f7bd/image" width="120" alt="Credly Badge" />
+  <a href="https://www.credly.com/badges/0ebfd6f2-d5b2-4b0c-8d95-81542cf9f7bd">
+    <img src="assets/badges/0ebfd6f2-d5b2-4b0c-8d95-81542cf9f7bd.png" width="120" alt="Credly Badge" />
   </a>
   &nbsp;
-  <a href="https://www.credly.com/badges/322438d2-050d-4401-9878-d9f23ff8888d" title="Credly Badge">
-    <img src="https://www.credly.com/badges/322438d2-050d-4401-9878-d9f23ff8888d/image" width="120" alt="Credly Badge" />
+  <a href="https://www.credly.com/badges/322438d2-050d-4401-9878-d9f23ff8888d">
+    <img src="assets/badges/322438d2-050d-4401-9878-d9f23ff8888d.png" width="120" alt="Credly Badge" />
   </a>
   &nbsp;
-  <a href="https://www.credly.com/badges/79e068d4-7739-4ebd-a8df-044e0cc0e219" title="Credly Badge">
-    <img src="https://www.credly.com/badges/79e068d4-7739-4ebd-a8df-044e0cc0e219/image" width="120" alt="Credly Badge" />
+  <a href="https://www.credly.com/badges/79e068d4-7739-4ebd-a8df-044e0cc0e219">
+    <img src="assets/badges/79e068d4-7739-4ebd-a8df-044e0cc0e219.png" width="120" alt="Credly Badge" />
   </a>
   &nbsp;
-  <a href="https://www.credly.com/badges/e76e0d12-73fb-429d-aead-bdef3f868817" title="Credly Badge">
-    <img src="https://www.credly.com/badges/e76e0d12-73fb-429d-aead-bdef3f868817/image" width="120" alt="Credly Badge" />
+  <a href="https://www.credly.com/badges/e76e0d12-73fb-429d-aead-bdef3f868817">
+    <img src="assets/badges/e76e0d12-73fb-429d-aead-bdef3f868817.png" width="120" alt="Credly Badge" />
   </a>
   &nbsp;
-  <a href="https://www.credly.com/badges/16f6d529-5165-4f1f-b695-c947068c99b9" title="Credly Badge (Expired)">
-    <img src="https://www.credly.com/badges/16f6d529-5165-4f1f-b695-c947068c99b9/image" width="120" alt="Credly Badge (Expired)" />
+  <a href="https://www.credly.com/badges/16f6d529-5165-4f1f-b695-c947068c99b9">
+    <img src="assets/badges/16f6d529-5165-4f1f-b695-c947068c99b9.png" width="120" alt="Credly Badge" />
   </a>
 </p>
-
-<p align="center"><sub>⚠️ Last badge is expired but the knowledge still holds.</sub></p>
 
 ---
 
