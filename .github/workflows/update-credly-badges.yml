@@ -1,0 +1,47 @@
+name: Update Credly Badge Images
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 0 1 * *'   # refresh once a month
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  download-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download badge images
+        run: |
+          mkdir -p assets/badges
+          declare -A BADGES=(
+            ["0ebfd6f2-d5b2-4b0c-8d95-81542cf9f7bd"]="badge1"
+            ["322438d2-050d-4401-9878-d9f23ff8888d"]="badge2"
+            ["79e068d4-7739-4ebd-a8df-044e0cc0e219"]="badge3"
+            ["e76e0d12-73fb-429d-aead-bdef3f868817"]="badge4"
+            ["16f6d529-5165-4f1f-b695-c947068c99b9"]="badge5"
+          )
+          for id in "${!BADGES[@]}"; do
+            curl -sL --max-time 30 \
+              -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" \
+              "https://www.credly.com/badges/${id}/image" \
+              -o "assets/badges/${id}.png"
+            echo "Downloaded ${id}: $(wc -c < assets/badges/${id}.png) bytes"
+          done
+
+      - name: Commit updated badges
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/badges/
+          if git diff --cached --quiet; then
+            echo "No badge changes to commit."
+          else
+            git commit -m "chore: refresh Credly badge images"
+            git push
+          fi
