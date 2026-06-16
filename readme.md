@@ -90,9 +90,10 @@
   </a>
 </p>
 
-<!-- Replace YOUR_SPOTIFY_USER_ID after connecting -->
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify now playing" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21y5qxnwftwavj5b6gziesowa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" alt="spotify now playing" />
+  </a>
 </p>
 
 <details>
@@ -101,7 +102,7 @@
 
 1. Open: `https://spotify-github-profile.kittinanx.com/api/login` and authorize Spotify.
 2. Copy your Spotify user ID.
-3. Replace `YOUR_SPOTIFY_USER_ID` in the image URL above.
+3. Use your Spotify user ID in the `uid=` parameter if you want to personalize this widget.
 4. Commit README — your currently playing track will update automatically.
 
 </details>
