@@ -35,13 +35,28 @@
 ### 🎖️ Credly Badges
 
 <p align="center">
-  <a href="https://www.credly.com/users/srinjoy-bhuiya">
-    <img src="https://img.shields.io/badge/Credly-Professional%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="credly profile" />
+  <a href="https://www.credly.com/badges/0ebfd6f2-d5b2-4b0c-8d95-81542cf9f7bd" title="Credly Badge">
+    <img src="https://www.credly.com/badges/0ebfd6f2-d5b2-4b0c-8d95-81542cf9f7bd/image" width="120" alt="Credly Badge" />
   </a>
-  <a href="https://www.credly.com/users/srinjoy-bhuiya">
-    <img src="https://img.shields.io/badge/View-All%20Issued%20Credentials-111827?style=for-the-badge&logo=openbadges&logoColor=white" alt="view all credly badges" />
+  &nbsp;
+  <a href="https://www.credly.com/badges/322438d2-050d-4401-9878-d9f23ff8888d" title="Credly Badge">
+    <img src="https://www.credly.com/badges/322438d2-050d-4401-9878-d9f23ff8888d/image" width="120" alt="Credly Badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/79e068d4-7739-4ebd-a8df-044e0cc0e219" title="Credly Badge">
+    <img src="https://www.credly.com/badges/79e068d4-7739-4ebd-a8df-044e0cc0e219/image" width="120" alt="Credly Badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/e76e0d12-73fb-429d-aead-bdef3f868817" title="Credly Badge">
+    <img src="https://www.credly.com/badges/e76e0d12-73fb-429d-aead-bdef3f868817/image" width="120" alt="Credly Badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/16f6d529-5165-4f1f-b695-c947068c99b9" title="Credly Badge (Expired)">
+    <img src="https://www.credly.com/badges/16f6d529-5165-4f1f-b695-c947068c99b9/image" width="120" alt="Credly Badge (Expired)" />
   </a>
 </p>
+
+<p align="center"><sub>⚠️ Last badge is expired but the knowledge still holds.</sub></p>
 
 ---
 
